@@ -10,4 +10,5 @@
 ## spaCy
 
 1. Install spaCy using the [installation Guide](https://spacy.io/usage)
-2. spaCy annotations and [NER](https://spacy.io/api/annotation#named-entities)
+2. Install [language model](https://spacy.io/usage/models)
+3. spaCy annotations and [NER](https://spacy.io/api/annotation#named-entities)
