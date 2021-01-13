@@ -6,3 +6,8 @@
 2. Launch Anaconda Navigator.
 3. Launch Jupyter Notebook via Anaconda Navigator. Go to the course contents folder and start the notebooks you need.
 4. You are now good to go and can save locally too.
+
+## spaCy
+
+1. Install spaCy using the [installation Guide](https://spacy.io/usage)
+2. spaCy annotations and [NER](https://spacy.io/api/annotation#named-entities)
