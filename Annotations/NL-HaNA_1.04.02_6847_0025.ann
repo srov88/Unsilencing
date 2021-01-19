@@ -1,0 +1,17 @@
+T1	Person 676 690	Anna Elisabeth
+T2	Women 1312 1318	Sister
+T3	Women 676 690	Anna Elisabeth
+T4	Person 1319 1337	Iohannes Theodorns
+T5	Men 1301 1308	broeder
+R1	Is Arg1:T4 Arg2:T5	
+T6	Person 1341 1349;1350 1351;1352 1380	Margare„ d tha geertruida van der werth
+R2	Is Arg1:T6 Arg2:T2	
+#1	AnnotatorNotes T4	Last name: van der Werth
+T7	GPE 1405 1412	malacca
+T8	Men 1452 1455	oom
+T9	Person 1456 1478	hendricus vander werth
+R3	Is Arg1:T9 Arg2:T8	
+T10	GPE 1528 1535	Zulphen
+T11	Men 2082 2086	heer
+T12	Person 2087 2105	Johan Manrits Mohr
+R4	Is Arg1:T12 Arg2:T11	

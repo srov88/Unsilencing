@@ -1,0 +1,9 @@
+T1	Men 79 84	mons:
+T2	Person 85 106	Johan Matthens Fihner
+R1	Is Arg1:T2 Arg2:T1	
+T3	Organization 346 352	Comp:e
+T4	Organization 498 534	geoctrooijeerde oost indesche Comp:s
+T5	GPE 545 549	amst
+T6	Organization 786 811	Collegie van heeren weesm
+T7	Person 2104 2120	Pirartus de Melt
+T8	Person 2124 2143	Hendrik Abrahamszal

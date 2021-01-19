@@ -1,0 +1,24 @@
+T1	Person 85 106	Reynier Stapel Junior
+T3	Person 174 192	Johan van Viseliet
+T4	GPE 228 235	Holland
+T5	GPE 266 269;270 284	ne„ derlands india
+T6	GPE 313 320	Batavia
+T7	Men 392 397	Heere
+T8	Men 398 401	M:r
+T9	Person 402 422	Reimer Stapel Iunior
+R1	Is Arg1:T9 Arg2:T8	
+R2	Is Arg1:T9 Arg2:T7	
+T10	Men 522 526	sijn
+R3	Is Arg1:T9 Arg2:T10	
+T11	Group 640 643	wij
+T12	Men 1947 1951	heer
+T13	Men 1251 1255	sijn
+T14	Men 1423 1427	sijn
+T15	Person 1952 1958;1959 1965	Reimer Stapel
+T16	GPE 2014 2023	Amsterdam
+T17	Women 2027 2033	vrouwe
+T18	Person 2034 2047	Anna Wietvank
+R4	Is Arg1:T18 Arg2:T17	
+R5	Is Arg1:T15 Arg2:T12	
+T20	Men 2198 2206	broeders
+T21	Women 2210 2217	zuiders

@@ -1,0 +1,8 @@
+T1	Men 362 368;369 373	schoon Zoon
+T2	Person 377 399	Lambertus Daniel Kreps
+R1	Is Arg1:T2 Arg2:T1	
+T3	Men 404 406	m:
+T4	Person 410 422;423 431	Jan coenraad Peijlner
+R2	Is Arg1:T4 Arg2:T3	
+T5	Person 528 544;545 553	Andries Matthijs Freschel
+T6	GPE 1498 1507	Amsterdam

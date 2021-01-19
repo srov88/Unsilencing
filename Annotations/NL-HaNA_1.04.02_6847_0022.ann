@@ -1,0 +1,10 @@
+T1	Men 88 92	heer
+T2	Men 819 824	heere
+T3	Person 828 852	Theodoms van Revershorst
+R1	Is Arg1:T3 Arg2:T2	
+T4	Person 856 884	Iacob Pompe van Weerdervoort
+R2	Is Arg1:T4 Arg2:T2	
+T5	Person 1007 1010;1011 1020	Ian van dordt
+T6	Men 989 996	meester
+R3	Is Arg1:T5 Arg2:T6	
+T7	GPE 1724 1731	amster:

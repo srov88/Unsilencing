@@ -1,0 +1,34 @@
+T1	Person 265 275;276 283	Jan phreu„ der Ool
+T2	Women 576 590	Jongste dogter
+T3	Person 591 600;601 609	Christina Bastiana
+R1	Is Arg1:T3 Arg2:T2	
+T4	Men 653 657	zoon
+T5	Person 658 676	Cornelis valentijn
+R2	Is Arg1:T5 Arg2:T4	
+T6	Men 721 725	Zoon
+T7	Person 726 737	Ioan willem
+R3	Is Arg1:T7 Arg2:T6	
+T8	Women 781 788	dogters
+T9	Number 776 780	twee
+T10	Person 789 809	Geertruyda Catharina
+R4	Is Arg1:T10 Arg2:T8	
+T11	Person 813 823;824 833	Wilhelmina Elisabeth
+R5	Is Arg1:T11 Arg2:T8	
+T12	Group 988 996	kinderen
+T13	Men 1303 1307	zoon
+T14	Person 1308 1319	Joan willem
+R6	Is Arg1:T14 Arg2:T13	
+T15	Men 1472 1476	soon
+T16	Person 1476 1491	codn:s valentin
+R7	Is Arg1:T16 Arg2:T15	
+T17	Men 1516 1522	zoonen
+T18	Women 1818 1824;1825 1830	huijs„ vrouw
+T19	Women 1984 1994	huijsbrouw
+T20	Person 2018 2046	Clara geertruijdo de Lahaije
+R8	Is Arg1:T20 Arg2:T19	
+T21	Number 2055 2060	vijff
+T22	Group 2061 2065;2066 2072	kin„ „deren
+T23	Person 2073 2094	geertruijda Catharina
+T24	Person 2096 2117	wilhelmina Elisabeth,
+T25	Women 2073 2094	geertruijda Catharina
+T26	Women 2096 2116	wilhelmina Elisabeth

@@ -1,0 +1,29 @@
+T1	Group 59 63	volk
+T3	Person 413 429	Abraham Salomons
+T4	Person 433 450	Hendrik Abrahamsz
+T5	Person 576 592	Eggbert Blomhert
+T7	Unclear_entity 729 743	13: 8bert 1768
+T8	Person 745 769	Marten Albregt Heynagtez
+T9	Unclear_entity 790 807	15: November 1768
+T10	Men 830 833	m:r
+T11	Person 834 848	Egbert Blomher
+R2	Is Arg1:T11 Arg2:T10	
+T13	GPE 894 911	nederlands Jordia
+T14	GPE 940 946	batera
+T15	Person 1000 1006;1007 1025	Martin Albregt Heijnagtsz
+T17	Women 1791 1800	Erfgename
+T18	Person 1801 1820	Harmelina Calharina
+T19	Indigenous 1824 1830	slaaff
+T20	Person 1831 1840	September
+R5	Is Arg1:T20 Arg2:T19	
+T21	Indigenous 1844 1852	Slavinne
+T22	Women 1844 1852	Slavinne
+T23	Person 1852 1858	olinda
+T24	Number 1919 1923	twee
+T25	Group 1924 1931	slaeven
+T26	Indigenous 1924 1931	slaeven
+T27	Women 1936 1940	haar
+T28	Women 1973 1977	haar
+T29	Group 2135 2143	kinderen
+T2	Unclear_entity 995 999	mont
+R1	Is Arg1:T18 Arg2:T17	

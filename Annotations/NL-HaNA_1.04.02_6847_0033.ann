@@ -1,0 +1,23 @@
+T1	Men 87 90	M:r
+T2	Person 91 108	Pieter Willem lam
+R1	Is Arg1:T2 Arg2:T1	
+T3	GPE 158 168;169 174	nederlands Indio
+T4	GPE 204 211	Batavia
+T5	Men 283 287	Heer
+T6	Person 288 302	van Schrennder
+R2	Is Arg1:T6 Arg2:T5	
+T7	GPE 321 337	nederlands india
+T8	Women 391 399	mevrouwe
+T9	Person 400 426	Kara goertrugda De Lahaije
+R3	Is Arg1:T9 Arg2:T8	
+T10	GPE 450 457	Jaccaha
+T11	Person 1239 1277	Jacob Pieterszen Fredricus constanlijn
+T12	Person 1331 1340;1341 1349	Schrenden Gerritsz
+T13	Person 1350 1371	geextroijda Schrender
+R4	Is Arg1:T13 Arg2:T8	
+T14	Person 1420 1445	Pieterszen Fr: C:gerritsz
+T15	Person 1461 1474	P: W: lammens
+T16	Person 1741 1754	Jan Schrender
+T17	GPE 1768 1784	nederlands india
+T18	Person 1788 1815	Clara geertruyda De lahaije
+R5	Is Arg1:T18 Arg2:T8	

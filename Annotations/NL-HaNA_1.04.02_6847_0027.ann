@@ -1,0 +1,27 @@
+T1	Person 626 633;634 642	Abraham Salomons
+T2	Person 646 662	Bernardus Aronsz
+T3	Person 808 816	Blomhert
+T4	GPE 942 949	Batavia
+T5	Unclear_entity 967 975;976 980	25: Jann 1769
+T6	Person 1015 1022	Pruymer
+T7	Person 1023 1045	Gerind Gerhard Henderk
+T8	Unclear_entity 1066 1080	18: Iunij 1763
+T9	Men 1103 1106	M:r
+T10	Person 1107 1124	Pieter Iacob Bert
+R1	Is Arg1:T10 Arg2:T9	
+T11	Men 1270 1274	Heer
+T12	Person 1275 1298;1299 1303	geerhardt Hendrik Prui„ mers
+T13	GPE 1213 1220	batavia
+T14	Women 1316 1322	Iuff=m
+T15	Person 1323 1343	Susanna Maria Grebel
+R2	Is Arg1:T12 Arg2:T11	
+R3	Is Arg1:T15 Arg2:T14	
+T16	Women 2026 2044	natuurlijke dogter
+T17	Person 2045 2065;2066 2070	Anna Lamentia pruij„ mers
+R4	Is Arg1:T17 Arg2:T16	
+T18	Number 2194 2198	twee
+T19	Indigenous 2199 2205	slaven
+T20	Person 2211 2231	Fortuijn van boegies
+R5	Is Arg1:T20 Arg2:T19	
+T21	Person 2235 2254	Cananga van batavia
+R6	Is Arg1:T21 Arg2:T19	

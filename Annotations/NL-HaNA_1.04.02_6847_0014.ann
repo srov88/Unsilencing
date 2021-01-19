@@ -1,0 +1,33 @@
+T1	GPE 142 149	Batavia
+T2	Unclear_entity 166 180	19: 8ber: 1768
+T3	Person 210 235	Jan Henderik van der Laan
+T4	Unclear_entity 256 269	19: Iber 1768
+T5	Men 293 296	m:r
+T6	Person 297 312	Egbert Blomhert
+R1	Is Arg1:T6 Arg2:T5	
+T7	GPE 357 373	nederlands India
+T8	GPE 402 409	Batavia
+R2	Geographical_part Arg1:T8 Arg2:T7	
+T9	Person 462 465;466 486	Jan Hendrik van der laan
+T11	Women 527 535	mejnst=m
+T12	Person 536 565	Johanna Albertina Franchimont
+R3	Is Arg1:T12 Arg2:T11	
+R4	Family Arg1:T12 Arg2:T9	
+T13	Unclear_entity 1618 1622	kind
+T14	Group 1631 1639	kinderen
+T15	Unclear_entity 1791 1795	kind
+T16	Group 1801 1809	kinderen
+T17	Group 2059 2067	kinderen
+T18	Women 2180 2186	moeder
+T19	Women 2187 2195	mesust=m
+T20	Person 2196 2213	Elisabeth Blencke
+R5	Is Arg1:T20 Arg2:T19	
+R6	Is Arg1:T20 Arg2:T18	
+T21	Women 2214 2219	wed=e
+T22	Men 2230 2234	heer
+T23	Person 2235 2238;2239 2259	Jan Hendrik van der laen
+R7	Is Arg1:T23 Arg2:T22	
+T24	GPE 2278 2290	bellingwolde
+R8	Is Arg1:T3 Arg2:T5	
+T25	Men 459 461	dE
+R9	Is Arg1:T20 Arg2:T21	

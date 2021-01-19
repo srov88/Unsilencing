@@ -1,0 +1,41 @@
+T1	Unclear_entity 205 238	Seven tien hondert Zes en twintig
+T2	Unclear_entity 245 262	schip prattenburg
+T3	Women 419 429	huijsvrouw
+T4	Person 511 537	Clara geertinyda De Sahaye
+R1	Is Arg1:T4 Arg2:T3	
+T5	Women 852 858	dogter
+T6	Person 859 873;874 884	christina Bas„ tinna arie
+R2	Is Arg1:T6 Arg2:T5	
+T7	Men 915 919	zoon
+T8	Person 920 937	Cornelis valentyn
+R3	Is Arg1:T8 Arg2:T7	
+T9	Men 977 981	soon
+T10	Person 982 993	Ioan willem
+R4	Is Arg1:T10 Arg2:T9	
+T11	Number 1097 1101	twee
+T12	Women 1109 1116	dogters
+T13	Person 1117 1136	geertnyda catharina
+T14	Person 1140 1160	wilhelmina Elisabeth
+R5	Is Arg1:T13 Arg2:T12	
+R6	Is Arg1:T14 Arg2:T12	
+T15	Men 1571 1575	soon
+T16	Person 1576 1587	Ioan willem
+R7	Is Arg1:T16 Arg2:T15	
+T17	Men 1766 1770	zoon
+T18	Person 1771 1788	Cornelis Valenzin
+R8	Is Arg1:T18 Arg2:T17	
+T19	Person 2317 2329	Ian Scrender
+T20	Group 2343 2351	kinderen
+T21	Person 2352 2372	geertruyda Casparina
+T22	Women 2352 2372	geertruyda Casparina
+T23	Person 2373 2392	Wilhelmina Elrabesh
+T24	Women 2373 2392	Wilhelmina Elrabesh
+T25	Person 2393 2411	Cornelis valen tyn
+T26	Women 2412 2430	Christina Bastiana
+T27	Person 2412 2430	Christina Bastiana
+T28	Person 2434 2456	Johan Willem schrender
+R9	Is Arg1:T28 Arg2:T20	
+R10	Is Arg1:T27 Arg2:T20	
+R11	Is Arg1:T23 Arg2:T20	
+R12	Is Arg1:T21 Arg2:T20	
+R13	Is Arg1:T25 Arg2:T20	

@@ -1,0 +1,37 @@
+T1	Person 83 98	Benjamin Heynen
+T2	Person 362 370;371 377	bensamin Weynen
+T3	Men 357 361	heer
+T4	Group 871 879	Zinderen
+T5	Person 904 924	Anna magteld Heijnen
+T7	Unclear_entity 866 870	vier
+T8	Unclear_entity 120 136	10: october 1768
+T9	Unclear_entity 173 183	nots publ:
+R2	Is Arg1:T2 Arg2:T3	
+T10	GPE 292 299	batnera
+T11	Men 791 795	heer
+T13	Person 889 892	Ian
+T12	Person 880 888	Arnolans
+T14	Person 893 900	Hendrik
+T15	Men 1268 1271	dE:
+T16	Person 1272 1288	Leendert goossen
+T19	Person 1335 1349	Roeloff Croese
+T20	Men 1350 1357	opperm:
+T21	Women 1398 1404	Zuster
+T22	Women 1405 1411	Jnst=m
+T23	Person 1412 1422;1423 1430	mag daleno Heijnen
+T24	Men 1652 1658	heeren
+T25	Men 1659 1665	weesm:
+T26	Men 1669 1672	dE:
+T27	Men 1775 1785	Eerw: heer
+T28	GPE 1914 1919	amstv
+T29	Person 2316 2331	bernardu Cramer
+T30	Men 2312 2315	dE:
+R3	Is Arg1:T29 Arg2:T30	
+T32	Person 2350 2373	hendrik Johan Madelanst
+T34	GPE 248 264	nederlands Jndia
+#1	AnnotatorNotes T12	Last name: Heynen
+#2	AnnotatorNotes T13	Last name: Heynen
+#3	AnnotatorNotes T14	Last name: Heynen
+R1	Is Arg1:T32 Arg2:T30	
+R4	Is Arg1:T23 Arg2:T22	
+R5	Is Arg1:T23 Arg2:T21	

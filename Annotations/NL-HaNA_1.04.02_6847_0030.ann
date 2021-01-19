@@ -1,0 +1,46 @@
+T1	Men 117 120	m:r
+T2	Person 121 127;128 138	pieter Jacob Bert
+R1	Is Arg1:T2 Arg2:T1	
+T3	Person 347 362	Henderik Hiller
+T4	Unclear_entity 383 398	1 Maart No 1769
+T5	Men 420 423	M:r
+T6	Person 424 439	Egbert Blomhert
+R2	Is Arg1:T6 Arg2:T5	
+T7	GPE 482 498	nederlands indra
+T8	GPE 527 534	Batavia
+T9	Person 582 589;590 596	hendrik Hiller
+T10	Person 1150 1163	Sara Dorothea
+T11	Person 1167 1188;1189 1194	Pacomina geerterdigda Kreps
+T12	Number 1195 1199	twee
+T13	Women 1213 1220	dogters
+R3	Is Arg1:T11 Arg2:T13	
+R4	Is Arg1:T10 Arg2:T13	
+T14	Person 1228 1240;1241 1250	Lambertus Da nel Kreps
+T15	Women 1555 1560	Jep=m
+T16	Person 1561 1568	Johanna
+T17	Person 1572 1588	Christina Willer
+R5	Is Arg1:T17 Arg2:T15	
+R6	Is Arg1:T16 Arg2:T15	
+T18	Men 1596 1604	broeders
+T19	Women 1605 1612	dogters
+R7	Is Arg1:T16 Arg2:T19	
+R8	Is Arg1:T17 Arg2:T19	
+T20	Men 1659 1663	Heer
+T21	Person 1664 1670;1671 1680	Piesen pernitsen
+R9	Is Arg1:T21 Arg2:T20	
+T22	Men 1834 1838	heer
+T23	Person 1839 1855	Sargeies de Laen
+R10	Is Arg1:T23 Arg2:T22	
+T24	Women 1883 1889	Pijs=m
+T25	Person 1890 1902	Anna vernoij
+R11	Is Arg1:T25 Arg2:T24	
+T26	Women 2238 2244	dogter
+T27	Women 2245 2251	Just=m
+T28	Person 2252 2261;2262 2268	geertruij Hiller
+T29	Women 2269 2278	Jnisvrouw
+T30	Person 2286 2308	Lambertus daniel kreps
+R12	Is Arg1:T28 Arg2:T27	
+R13	Is Arg1:T28 Arg2:T26	
+R14	Is Arg1:T30 Arg2:T29	
+T31	Women 2358 2364	dogter
+T32	GPE 2392 2399	batavia
