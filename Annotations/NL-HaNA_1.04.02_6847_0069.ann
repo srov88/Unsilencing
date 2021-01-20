@@ -1,0 +1,19 @@
+T1	Person 68 86	Abraham van Zenden
+T2	Men 61 67	heeren
+T3	Women 134 140	vrouwe
+T4	Person 141 167	agnes Maria van Aollesteyn
+R1	Is Arg1:T4 Arg2:T3	
+R2	Is Arg1:T1 Arg2:T2	
+T5	Person 223 250;251 267	Joh:s Hermanns d’Everdingen van der Rijpoort
+T6	Women 305 311	vrouwe
+T7	Person 312 325	Alida Meyning
+R3	Is Arg1:T7 Arg2:T6	
+T8	Person 2167 2197	Alexender AAlexander Davidzoon
+T9	Person 2201 2221	laurens Iacob Demelo
+T10	Unclear_entity 2520 2534	19. Julij 1769
+T11	Unclear_entity 2582 2595	11: Iuni 1769
+T12	Men 2617 2620	m:r
+T13	Person 2621 2636	Egbert Blomhert
+R4	Is Arg1:T13 Arg2:T12	
+T14	GPE 2682 2698	nederlands india
+T15	GPE 2727 2730;2731 2735	bo„ tara

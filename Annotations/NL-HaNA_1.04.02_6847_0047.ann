@@ -1,0 +1,19 @@
+T1	Person 80 94	Ian van veeren
+T2	Women 141 147	Just=m
+T3	Person 148 152;153 171	Anna mogdalena Siewerts
+R1	Is Arg1:T3 Arg2:T2	
+T4	GPE 198 212	Chineese grogt
+T5	Women 1474 1482	prysvrou
+T6	Women 1483 1491	mejn p=m
+T7	Person 1492 1501;1502 1510	Elisabeth westvien
+R2	Is Arg1:T7 Arg2:T6	
+R3	Is Arg1:T7 Arg2:T5	
+T8	GPE 1524 1531	holland
+T9	Women 2038 2042	haar
+T10	Person 2056 2073	Johanna mogdalena
+R4	Is Arg1:T10 Arg2:T9	
+T11	Person 2091 2104	dirk leendert
+T12	Men 2162 2165	man
+T13	Person 2166 2172;2173 2191	willen van Nieuwenhuijsen
+T14	GPE 2203 2211	Samarang
+R5	Is Arg1:T13 Arg2:T12	

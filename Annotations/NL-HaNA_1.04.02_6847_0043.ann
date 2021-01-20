@@ -1,0 +1,20 @@
+T1	Person 174 179	Jonas
+T2	Person 212 223	David Jansz
+T3	Person 227 235	domingos
+T4	Unclear_entity 227 235	domingos
+T5	Person 372 380	L: Rolff
+T6	GPE 514 521	batavia
+T7	Unclear_entity 539 553	15: maart 1769
+T8	Person 583 600	Johannes Wigerman
+T9	Unclear_entity 623 640	1:' Ianuarij 176:
+T10	Person 666 681	Egbert Blomhert
+T11	GPE 726 742	nederlands indra
+T12	GPE 769 776	Bohavia
+T13	Person 829 846	Iohannes wigersma
+T14	Unclear_entity 1567 1577	Swagerinne
+T15	Women 1578 1583	Jop=m
+T16	Person 1584 1610;1611 1615	Johanna albertina Franchi„ mond
+T17	Women 1616 1621	wed:e
+T18	Person 1633 1648	Petrus Wegersma
+R1	Is Arg1:T16 Arg2:T15	
+R2	Is Arg1:T16 Arg2:T17	

@@ -1,0 +1,9 @@
+T1	Men 363 368	zoons
+T2	Women 382 389	Mepff:r
+T3	Person 390 398;399 405	Iacomina Iacobs
+T4	Women 406 414	huijsv:r
+R1	Is Arg1:T3 Arg2:T2	
+R2	Is Arg1:T3 Arg2:T4	
+T5	Person 458 463;464 480	Huij„ brecht van driel
+T6	GPE 1225 1234	Amsterdam
+T7	Indigenous 1785 1798	Lijfflijgenen

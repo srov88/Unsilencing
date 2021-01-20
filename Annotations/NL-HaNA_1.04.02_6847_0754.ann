@@ -1,0 +1,51 @@
+T1	Person 500 517	Lanke van Coegies
+#1	AnnotatorNotes T1	moet zijn Lanko van Boegis, lijfeigene, slaaf
+T2	Person 550 565	Patra van Balij
+#2	AnnotatorNotes T2	slaaf
+T3	Person 631 647	Lanko van Boegja
+#3	AnnotatorNotes T3	Lanko van Boegis
+T4	Person 527 534;535 546	malatie van Batavia
+T5	Person 772 791	Malatie van Batavia
+T6	Person 795 810	Patra van Balij
+T7	Person 1244 1260	Lnks van Boegies
+#4	AnnotatorNotes T7	Lanko van Boegis
+T8	Person 1261 1280	Malatie van Batavia
+T9	Person 1284 1289;1290 1299	Pabra van Balij
+T10	Indigenous 1513 1524	Njai Rentje
+#5	AnnotatorNotes T10	Njai Kentje, vrije madame
+T11	Women 1513 1524	Njai Rentje
+T12	Person 1661 1690	Chritina Elisabeth zeijlinger
+T13	Person 1967 1981	Wijnand Franke
+T14	Person 1950 1963	Jan Augustijn
+T15	Person 2503 2520	Johanna Christina
+T16	Indigenous 2483 2502	vrije Chrisle vrouw
+#6	AnnotatorNotes T16	vrije christen vrouwe
+T17	Indigenous 485 490	slaaf
+T18	Indigenous 625 630	slaaf
+T19	Indigenous 760 763;764 771	sla „kinnen
+T20	Indigenous 1219 1231	lijf eigenen
+T21	Women 1652 1660	Juffrouw
+T22	Women 2497 2502	vrouw
+T23	GPE 784 791	Batavia
+T24	GPE 805 810	Balij
+T25	GPE 641 647	Boegja
+T26	GPE 560 565	Balij
+T27	GPE 539 546	Batavia
+T28	GPE 510 517	Coegies
+T29	GPE 1253 1260	Boegies
+T30	GPE 1273 1280	Batavia
+T31	GPE 1294 1299	Balij
+T32	Women 1705 1711	dogter
+T33	Indigenous 463 476	lijff Eigenen
+R1	Is Arg1:T1 Arg2:T17	
+R2	Is Arg1:T3 Arg2:T18	
+R3	Is Arg1:T5 Arg2:T19	
+T34	Women 760 763;764 771	sla „kinnen
+R4	Is Arg1:T6 Arg2:T19	
+R5	Is Arg1:T7 Arg2:T20	
+R6	Is Arg1:T8 Arg2:T20	
+R7	Is Arg1:T9 Arg2:T20	
+T35	Women 1491 1498	machome
+#7	AnnotatorNotes T35	madame
+T36	Women 1507 1512	vrouw
+T37	Unclear_entity 1485 1506	vrije machome, zuanje

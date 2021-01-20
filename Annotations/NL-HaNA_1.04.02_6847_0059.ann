@@ -1,0 +1,35 @@
+T1	Person 624 648;649 653	Ian Carelszen Zaelitbra„ „ham
+T2	Person 654 661	Simanoz
+T3	Person 799 809	D: V: haak
+T4	Unclear_entity 967 986	28: Zijnij A:o 1769
+T5	Person 1015 1036	Jacob Adolff ver Mehr
+T6	Unclear_entity 1059 1073	31: Maart 1769
+T7	Person 1099 1114	Egbert Blomhert
+T8	Men 1095 1098	m:r
+T9	GPE 1159 1175	nederlands india
+T10	GPE 1203 1206;1207 1212	ba„ favra
+T11	Person 1262 1271;1272 1273;1274 1289	Ets Jacob „ Adolff ver Mehr
+R1	Is Arg1:T7 Arg2:T8	
+T12	GPE 1343 1350	malacca
+T13	Indigenous 1827 1831;1832 1839	sla„ verrige
+T14	Indigenous 1879 1891	lijf eidenen
+T15	Person 1902 1920	maart van Sumbanwa
+T16	Women 1929 1932	wij
+T17	Person 1933 1951;1952 1955	H Tsindra van boe„ gis
+R2	Is Arg1:T17 Arg2:T16	
+R3	Is Arg1:T17 Arg2:T14	
+R4	Is Arg1:T17 Arg2:T13	
+R5	Is Arg1:T15 Arg2:T14	
+R6	Is Arg1:T15 Arg2:T13	
+T18	Person 1969 1990	Rosina van maccasser,
+R7	Is Arg1:T18 Arg2:T16	
+R8	Is Arg1:T18 Arg2:T14	
+R9	Is Arg1:T18 Arg2:T13	
+T19	Person 1991 2008	Jasson van boegis
+R10	Is Arg1:T19 Arg2:T14	
+R11	Is Arg1:T19 Arg2:T13	
+T20	Women 2018 2023	wijff
+T21	Person 2024 2043	manies van Ternaten
+R12	Is Arg1:T21 Arg2:T20	
+R13	Is Arg1:T21 Arg2:T14	
+R14	Is Arg1:T21 Arg2:T14	

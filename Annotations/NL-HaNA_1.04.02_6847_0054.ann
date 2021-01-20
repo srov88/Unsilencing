@@ -1,0 +1,6 @@
+T1	Person 96 119	Pieter Cornelis Beekman
+T2	Men 2621 2626	heere
+T3	Person 2628 2645	Jacob Bollenhagen
+T4	Person 2649 2668	Johan marten Hulman
+R1	Is Arg1:T4 Arg2:T2	
+R2	Is Arg1:T3 Arg2:T2	

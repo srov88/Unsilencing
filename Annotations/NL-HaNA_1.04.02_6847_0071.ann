@@ -1,0 +1,19 @@
+T1	Person 21 43	Johannes Stierna Boekh
+T2	Person 1511 1529	Sirardus De melden
+T3	Person 1530 1533;1534 1548	Jo„ hannes Carelsz
+T4	Person 1588 1594	Bomson
+T5	Person 1607 1618	B: Bouisson
+T6	Person 1642 1652	: Blomhert
+T7	Person 1681 1688	De Melo
+T8	Person 1692 1701	P: Carels
+T9	Men 1863 1867	heer
+T10	Person 1871 1880	J:n Smith
+R1	Is Arg1:T10 Arg2:T9	
+T11	GPE 1906 1913	Batavia
+T12	Unclear_entity 1918 1936	18: September 1769
+T13	Person 1951 1957;1958 1966	Egbert Blomhert
+T14	Person 1972 1982	Jan Ulming
+T15	Unclear_entity 2006 2023	19. augustus 1769
+T16	Person 2075 2089	Leendert Rolff
+T17	GPE 2134 2152	nederlands india g
+T18	GPE 2179 2186	batavia

@@ -1,0 +1,4 @@
+T1	Men 122 126	Heer
+T2	Person 127 136;137 141	Jan Hendk Pook
+R1	Is Arg1:T2 Arg2:T1	
+T3	GPE 156 178	bataviasche ommelanden

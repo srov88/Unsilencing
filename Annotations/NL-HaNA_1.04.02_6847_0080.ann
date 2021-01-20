@@ -1,0 +1,31 @@
+T1	Men 79 86	zoontje
+T2	Women 380 387	Susters
+T3	Women 388 395	juff=en
+T4	Person 396 423	Charlotta Christina Kramer,
+T5	Women 424 434	huijsvrouw
+T6	Men 443 447	Heer
+T7	Person 448 472	Coenraad Henrich Brandes
+T8	GPE 487 494	Einbeck
+T9	Person 499 521	Fredrica Louisa Kramer
+T10	Men 539 543	heer
+T11	Person 544 549;550 571	Elias Lodewijk Schellenberg
+T12	GPE 589 599	Aolsminden
+T13	Women 789 799	doopdogter
+T14	Person 800 819;820 827	Catharina Christina sanders
+T15	Person 1054 1078;1079 1083	Catharina Christina San„ ders
+T16	Men 1494 1498	zoon
+T17	Men 1534 1540	Heeren
+T18	Person 1541 1545;1546 1565	Lam„ bertus Daniel Kreps
+T19	Person 1617 1638	Ian Coenraad Feijlner
+T20	Men 2125 2129	zoon
+T21	Men 2362 2366	zoon
+R1	Is Arg1:T4 Arg2:T2	
+R2	Is Arg1:T4 Arg2:T3	
+R3	Is Arg1:T4 Arg2:T5	
+R4	Is Arg1:T7 Arg2:T6	
+R5	Is Arg1:T9 Arg2:T5	
+R6	Is Arg1:T9 Arg2:T2	
+R7	Is Arg1:T9 Arg2:T3	
+R8	Is Arg1:T11 Arg2:T10	
+R9	Is Arg1:T14 Arg2:T13	
+R10	Is Arg1:T15 Arg2:T13	

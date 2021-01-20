@@ -1,0 +1,24 @@
+T1	Person 76 103	Christiaan Ferdinant Cramer
+T2	Unclear_entity 117 135	14:' November 1770
+T3	Men 158 161	M:r
+T4	Person 162 177	Herman Scheltus
+R1	Is Arg1:T4 Arg2:T3	
+T5	GPE 227 243	nederlands India
+T6	GPE 273 280	Batavia
+T7	Person 332 361	Christiaan Ferdinant Cramer o
+T8	Organization 1123 1137	Lutersche kork
+T9	Indigenous 1240 1260	vrije Christen vrouw
+T10	Women 1240 1260	vrije Christen vrouw
+T11	Person 1261 1277	Leonora Abrahams
+T12	Person 1307 1320	Nonja Lea voo
+*	Alias T12 T11
+R2	Is Arg1:T12 Arg2:T10	
+R3	Is Arg1:T12 Arg2:T9	
+R4	Is Arg1:T11 Arg2:T9	
+R5	Is Arg1:T11 Arg2:T10	
+T13	Men 1611 1615	heer
+T14	Person 1616 1640	Hendrik Coenraad Sanders
+R6	Is Arg1:T14 Arg2:T13	
+T15	GPE 1644 1650	Alkmaa
+T16	Men 2039 2046	zoontje
+T17	Person 2047 2056;2057 2072	Lambertus Gerardus Cramer

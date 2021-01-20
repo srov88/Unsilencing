@@ -1,0 +1,10 @@
+T1	Indigenous 239 251	lijf eigenen
+T2	Indigenous 338 344	slaaff
+T3	Person 345 361	Fortnijn van mas
+R1	Is Arg1:T3 Arg2:T2	
+R2	Is Arg1:T3 Arg2:T1	
+T4	Person 768 785	Jan Fred:k Freese
+T5	Person 2241 2252	danrd Jansz
+T6	Person 2259 2264;2265 2274	Mhnau Claarbout
+T7	GPE 2534 2541	batavia
+T8	Unclear_entity 2558 2572	30: aug:o 1769

@@ -1,0 +1,24 @@
+T1	Women 62 67	JnW=m
+T2	Person 68 81;82 95	Catharina Cor nelia Abesten
+T3	Unclear_entity 564 576	20 meij 1766
+T4	Indigenous 614 627	lijf eijgenen
+T5	Indigenous 728 736	Slavinne
+T6	Women 728 736	Slavinne
+T7	Person 737 756	Clara van maccasser
+R1	Is Arg1:T7 Arg2:T5	
+R2	Is Arg1:T7 Arg2:T6	
+T8	Indigenous 866 884	mandadoor de vrije
+T9	Men 885 890	Ionge
+T10	Indigenous 879 890	vrije Ionge
+T11	Person 892 908	hebus van boegis
+R3	Is Arg1:T11 Arg2:T10	
+R4	Is Arg1:T11 Arg2:T9	
+T12	Men 1848 1852	heer
+T13	Men 1838 1843	vader
+T14	Person 1853 1866	Tean Bouigont
+R5	Is Arg1:T14 Arg2:T12	
+R6	Is Arg1:T14 Arg2:T13	
+T15	Men 2151 2156	vader
+T16	Men 3011 3015	heer
+T17	Person 3016 3034	David Johan Smijth
+T18	Indigenous 3097 3107	inlanderen

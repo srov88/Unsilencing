@@ -1,0 +1,10 @@
+T1	Men 342 348	sijnen
+T2	Indigenous 349 355	slaaff
+T3	Person 356 364	Fortnijn
+T4	Person 356 372	Fortnijn van mas
+R1	Is Arg1:T4 Arg2:T2	
+T5	Person 784 807	Jan Foed:k Treese binge
+T6	Men 779 783	mons
+R2	Is Arg1:T5 Arg2:T6	
+T7	Person 2271 2287;2288 2297	Janszende IMhnas Claarbout
+T8	GPE 2557 2564	batavia

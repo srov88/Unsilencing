@@ -1,0 +1,12 @@
+T1	Indigenous 247 259	lijf eigenen
+T2	Indigenous 347 353	slaaff
+T3	Person 354 370	Fortuijn van mas
+R1	Is Arg1:T3 Arg2:T2	
+R2	Is Arg1:T3 Arg2:T1	
+T4	Men 787 792	mons:
+T5	Person 793 810	Jan Fred:k Freese
+R3	Is Arg1:T5 Arg2:T4	
+T6	Unclear_entity 2310 2319	Jagerspad
+T7	Person 2340 2354	davrd Janszend
+T8	Person 2356 2365;2366 2375	AAanasins Claarbout
+T9	Unclear_entity 2674 2688	30: aug:o 1769

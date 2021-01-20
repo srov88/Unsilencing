@@ -1,0 +1,21 @@
+T1	Person 488 505;506 511	Johannes Exechiel felix
+T2	Person 515 531	Martinus Dirksz:
+T3	Person 687 695	Scheltus
+T4	Person 702 711	Jan Swart
+T5	Person 804 826	Johannes van den Bergh
+T6	GPE 877 893	nederlands India
+T7	GPE 921 928	Batavia
+T8	Person 988 997	Jan Swart
+T9	Person 1048 1055	Jongman
+T10	Men 1092 1098	Mons:r
+T11	Person 1099 1120	Jan Fredrik Daberkouw
+R1	Is Arg1:T11 Arg2:T10	
+T12	Organization 1597 1606;1607 1616	Lutersche weeshuijs
+T13	GPE 1621 1630	Amsterdam
+T14	Men 1841 1846	vader
+T15	Men 1850 1854	heer
+T16	Person 1855 1864	Jan Swart
+R2	Is Arg1:T16 Arg2:T15	
+T17	Person 2246 2270	Christiaan fredrik Swart
+T18	Men 2217 2224	broeder
+T19	Women 2228 2235	susters

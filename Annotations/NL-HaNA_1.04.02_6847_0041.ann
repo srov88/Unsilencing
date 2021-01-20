@@ -1,0 +1,12 @@
+T1	Person 297 308	p: Blomherk
+T2	GPE 434 441	Batavia
+T3	Person 514 540	Shesdwrie Johanne Hartingh
+T4	Unclear_entity 459 461;462 472	1: maart 1769
+T5	GPE 650 666	nederlands India
+T6	Person 591 605	Leendert Rolff
+T7	Unclear_entity 555 569	14: Jann: 1767
+T8	GPE 695 702	Batavia
+T9	Person 763 790	Theodorus Iohannes Hartingh
+T10	Women 861 870	me jnst=m
+T11	Person 871 895	Maria henrietta hartingh
+R1	Is Arg1:T11 Arg2:T10	
